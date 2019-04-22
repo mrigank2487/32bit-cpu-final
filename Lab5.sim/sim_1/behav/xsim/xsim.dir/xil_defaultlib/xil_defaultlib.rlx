@@ -1,0 +1,21 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sim_1/new/testbench.v,1555887998,verilog,,,,testbench,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/ALU.v,1554586246,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/Memory.v,,ALU,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/Memory.v,1554754417,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/controlUnit.v,,Memory,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/controlUnit.v,1553909281,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/dataMemory.v,,controlUnit,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/dataMemory.v,1554755220,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionDecode.v,,dataMemory,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionDecode.v,1553906727,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionExecute.v,,instructionDecode,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionExecute.v,1554755220,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionFetch.v,,instructionExecute,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionFetch.v,1553908497,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionMemory.v,,instructionFetch,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/instructionMemory.v,1554755220,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/mux1.v,,instructionMemory,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/mux1.v,1553908496,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/mux2.v,,mux1,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/mux2.v,1554755325,verilog,,P:/Courses/CMPEN331/Lab5/Lab5/Lab5.srcs/sources_1/new/mux3.v,,mux2,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/programCounter.v,1553908497,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/programCounterAdder.v,,programCounter,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/programCounterAdder.v,1553908496,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/registerFile.v,,programCounterAdder,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/registerFile.v,1555889110,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/signExtension.v,,registerFile,,,,,,,,
+P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/signExtension.v,1553908496,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sim_1/new/testbench.v,,signExtension,,,,,,,,
+P:/Courses/CMPEN331/Lab5/Lab5/Lab5.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+P:/Courses/CMPEN331/Lab5/Lab5/Lab5.srcs/sources_1/new/mux3.v,1555887998,verilog,,P:/Courses/CMPEN331/Lab4/Lab4/Lab4.srcs/sources_1/new/programCounter.v,,mux3,,,,,,,,
